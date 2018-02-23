@@ -1,0 +1,19 @@
+.blue-bar {
+  width: 100%;
+  height: 500px;
+  background-color: #3783fc;
+  background-size: cover;
+  background: linear-gradient(#3783fc, white);
+}
+
+.submit-field {
+  margin-left: 48vw;
+  margin-top: 50vh;
+  width: 200px;
+  height: 40px;
+}
+
+.submit-button {
+  width: 60px;
+  height: 46px;
+}
